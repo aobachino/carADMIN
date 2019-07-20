@@ -1,0 +1,7 @@
+********************************
+* LastKadai_Admin *
+********************************
+
+http://localhost:8080/LastKadai_Admin/login.html
+
+http://localhost:8080/LastKadai_Admin/serchForm.html
